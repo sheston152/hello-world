@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+my first repositoryI'm looking to expand the hoizons of myself and others
